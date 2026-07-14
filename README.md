@@ -36,16 +36,20 @@ Full-stack dev with a Java/JS background, now deep in local-first AI tooling —
 
 ### 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoazlima&show_icons=true&theme=default&hide_border=true&count_private=true" alt="stats" height="165px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoazlima&layout=compact&hide_border=true&theme=default" alt="top languages" height="165px"/>
+![Followers](https://img.shields.io/github/followers/rodrigoazlima?style=social)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frodrigoazlima&query=%24.public_repos&label=public%20repos&style=social)
+
+Top languages across my repos (by repo count): **Java**, **JavaScript**, **Python**, **TypeScript**, **Go**, **Rust**, **PowerShell**, **C#**, **Vue**, **CSS**.
 
 <br>
 
 ### 🛠️ Notable Projects
 
-<a href="https://github.com/rodrigoazlima/LocalRouter" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoazlima&repo=LocalRouter&hide_border=true" alt="LocalRouter" /></a>
-<a href="https://github.com/rodrigoazlima/ollama-tray" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoazlima&repo=ollama-tray&hide_border=true" alt="ollama-tray" /></a>
-<a href="https://github.com/rodrigoazlima/NexusCampaigns" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoazlima&repo=NexusCampaigns&hide_border=true" alt="NexusCampaigns" /></a>
-<a href="https://github.com/rodrigoazlima/llama.cpp-moe-amd-lowvram" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoazlima&repo=llama.cpp-moe-amd-lowvram&hide_border=true" alt="llama.cpp-moe-amd-lowvram" /></a>
-<a href="https://github.com/rodrigoazlima/bitunlocker" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoazlima&repo=bitunlocker&hide_border=true" alt="bitunlocker" /></a>
-<a href="https://github.com/rodrigoazlima/CopyPaste2Diffusion" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoazlima&repo=CopyPaste2Diffusion&hide_border=true" alt="CopyPaste2Diffusion" /></a>
+| Repo | Description | Language |
+|---|---|---|
+| [LocalRouter](https://github.com/rodrigoazlima/LocalRouter) | Local-first LLM router with intelligent failover and error-aware provider blocking | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/LocalRouter) |
+| [ollama-tray](https://github.com/rodrigoazlima/ollama-tray) | System tray manager for Ollama — live CPU/RAM usage, start/stop/restart without a terminal | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/ollama-tray) |
+| [NexusCampaigns](https://github.com/rodrigoazlima/NexusCampaigns) | AI-powered nexus that connects ideas into complete, interconnected tabletop RPG campaigns | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/NexusCampaigns) |
+| [llama.cpp-moe-amd-lowvram](https://github.com/rodrigoazlima/llama.cpp-moe-amd-lowvram) | Run MoE LLMs (e.g. Qwen 3.6 35B-A3B) on 24GB AMD GPUs via llama.cpp + ROCm/HIP | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/llama.cpp-moe-amd-lowvram) |
+| [bitunlocker](https://github.com/rodrigoazlima/bitunlocker) | Recover BitLocker devices with a partially known password | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/bitunlocker) |
+| [CopyPaste2Diffusion](https://github.com/rodrigoazlima/CopyPaste2Diffusion) | Clipboard image straight to any Stable Diffusion API — paste and go | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/CopyPaste2Diffusion) |
