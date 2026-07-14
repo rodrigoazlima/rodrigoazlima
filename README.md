@@ -47,7 +47,7 @@ Full-stack dev with a Java/JS background, now deep in local-first AI tooling —
 | Repo | Description | Language |
 |---|---|---|
 | [LocalRouter](https://github.com/rodrigoazlima/LocalRouter) | Local-first LLM router with intelligent failover and error-aware provider blocking | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/LocalRouter) |
-| [ollama-tray](https://github.com/rodrigoazlima/ollama-tray) | System tray manager for Ollama — live CPU/RAM usage, start/stop/restart without a terminal | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/ollama-tray) |
+| [easyforkjoin](https://github.com/rodrigoazlima/easyforkjoin) | Easier implementation of forkJoin for RxJS | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/easyforkjoin) |
 | [NexusCampaigns](https://github.com/rodrigoazlima/NexusCampaigns) | AI-powered nexus that connects ideas into complete, interconnected tabletop RPG campaigns | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/NexusCampaigns) |
 | [llama.cpp-moe-amd-lowvram](https://github.com/rodrigoazlima/llama.cpp-moe-amd-lowvram) | Run MoE LLMs (e.g. Qwen 3.6 35B-A3B) on 24GB AMD GPUs via llama.cpp + ROCm/HIP | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/llama.cpp-moe-amd-lowvram) |
 | [ProjectCell](https://github.com/rodrigoazlima/ProjectCell) | Brazilian initiative to learn biology through a game | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/ProjectCell) |
