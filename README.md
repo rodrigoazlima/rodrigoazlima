@@ -37,9 +37,8 @@ Full-stack dev with a Java/JS background, now deep in local-first AI tooling —
 ### 📊 GitHub Stats
 
 ![Followers](https://img.shields.io/github/followers/rodrigoazlima?style=social)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frodrigoazlima&query=%24.public_repos&label=public%20repos&style=social)
 
-Top languages across my repos (by repo count): **Java**, **JavaScript**, **Python**, **TypeScript**, **Go**, **Rust**, **PowerShell**, **C#**, **Vue**, **CSS**.
+37 public repos. Top languages by repo count: **Java**, **JavaScript**, **Python**, **TypeScript**, **Go**, **Rust**, **PowerShell**, **C#**, **Vue**, **CSS**.
 
 <br>
 
@@ -51,5 +50,5 @@ Top languages across my repos (by repo count): **Java**, **JavaScript**, **Pytho
 | [ollama-tray](https://github.com/rodrigoazlima/ollama-tray) | System tray manager for Ollama — live CPU/RAM usage, start/stop/restart without a terminal | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/ollama-tray) |
 | [NexusCampaigns](https://github.com/rodrigoazlima/NexusCampaigns) | AI-powered nexus that connects ideas into complete, interconnected tabletop RPG campaigns | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/NexusCampaigns) |
 | [llama.cpp-moe-amd-lowvram](https://github.com/rodrigoazlima/llama.cpp-moe-amd-lowvram) | Run MoE LLMs (e.g. Qwen 3.6 35B-A3B) on 24GB AMD GPUs via llama.cpp + ROCm/HIP | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/llama.cpp-moe-amd-lowvram) |
-| [bitunlocker](https://github.com/rodrigoazlima/bitunlocker) | Recover BitLocker devices with a partially known password | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/bitunlocker) |
+| [ProjectCell](https://github.com/rodrigoazlima/ProjectCell) | Brazilian initiative to learn biology through a game | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/ProjectCell) |
 | [CopyPaste2Diffusion](https://github.com/rodrigoazlima/CopyPaste2Diffusion) | Clipboard image straight to any Stable Diffusion API — paste and go | ![lang](https://img.shields.io/github/languages/top/rodrigoazlima/CopyPaste2Diffusion) |
